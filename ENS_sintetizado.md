@@ -86,10 +86,67 @@ Esquema:
 - Requisitos de seguridad en los servicio.
 
 
+<br>
+
 ## 6. Nivel de Supervisión: Responsables de Seguridad
 - Decisiones para satisfacer los requisitos que fijan resp. de info y servicio.
 - Dos funciones principales:
-  - 
+  - Responsable de info y servicios (su seguridad) que cumplan la Política de seguridad
+  - Promover concienciación y formación.
+  - Eleborar y proponer Políticas de Seg.
+  - Analizar normativa y realizar auditorías.
+  - Desarrollar Declaración de aplicabilidad.
+  - Buenas prácticas.
+  - Otras tareas.
+
+- Dependiendo del órgano, la estructura es diferente
+- Responsables de Seguridad delegan en Responsables de Seguridad Delegados.
 
 
+<br>
 
+## 7. Nivel operativo: Responsables del Sistema
+
+### 7.1 El Responsable del sistema
+- Puesto definido por la dirección y escrito en la política de seguridad.
+- Tiene tres funciones
+  - Desarrollar, operar y mantener el SI durante su ciclo de vida.
+  - Definir topología y gestión del SI
+  - Asegurar medidas de Seguridad bien integradas 
+
+- Estructuración igual que el Responsable de Seguridad
+- Seguridad física
+
+### 7.2  Seguridad física
+
+- Seguridad física y lógica. ENS permite dar respuesta.
+
+### 7.3 Gestión de Seguridad
+- RR.HH.
+
+
+<br>
+
+## 8. Administrador de Seguridad
+- Depende del Responsable de Seguridad (sistemas más seguridad) y Responsable de la Información (sistemas más la operativa).
+- Funciones descritas a ambos, pero a más bajo nivel.
+- Reporta al responsable de Sistema
+
+
+<br>
+
+## 9. Comités
+
+- Existen dos: 
+  - Comité de Seguridad Corporativa
+  - Comité de Seguridad de la Información
+
+## 10 y 11. Nombramientos y reportes de información
+- Descritos anteriormente. Para los resportes basta con seguir la siguiente imagen:
+
+<br>
+
+<img src="./pictures/2. Flujo.png"
+     alt="Estructura ENS"
+     style="float: left; margin-right: 5px;padding-bottom: 25px" >
+     
